@@ -1,3 +1,5 @@
+### Issue: https://github.com/ushahidi/platform/issues/4749
+
 Task: Write an instruction on how to test the Ushahidi platform for accessibility
 How would you go about testing the Ushahidi platform on the web for accessibility? This is one of the first tasks of the internship so dig into the platform and think about strategies and methods for testing.
 
