@@ -1,6 +1,5 @@
-Issue: https://github.com/ushahidi/platform/issues/3663#issue-481586539
-
-Solution: https://github.com/ushahidi/platform/issues/3663#issuecomment-2011275228
+### Issue: https://github.com/ushahidi/platform/issues/3663#issue-481586539
+### Solution: https://github.com/ushahidi/platform/issues/3663#issuecomment-2011275228
 ---
 Confusing instructions
 
