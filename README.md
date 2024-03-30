@@ -1,6 +1,4 @@
 # Ushahidi 2024
----
-# My Ushahidi Contributions
 
 This repository serves as a track record of my contributions to Ushahidi projects. Below is a list of tasks I've completed along with corresponding links to the relevant GitHub repositories or documentation.
 
@@ -19,7 +17,7 @@ This repository serves as a track record of my contributions to Ushahidi project
 ### Task 3: Documentation Testing and Findings
 - **Description:** Tested documentation for production environment setups and documented findings.
 - **GitHub Link:** [Task 3 GitHub Repository](https://github.com/anjalichaturvedi/Ushahidi_2024/blob/main/documentation-dev.md)
-- **Tags:** `documentation`, `quality assurance`
+- **Tags:** `documentation`, `whatsapp 2024`
 
 ### Task 4: Blog Post Writing
 - **Description:** Shared findings and proposed areas for further exploration in a blog post, highlighting key features, limitations, and potential inspirations for the project.
